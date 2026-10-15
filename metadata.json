@@ -1,0 +1,6 @@
+{
+  "name": "Messi Looker Studio Query Tool",
+  "description": "Natural language query tool powered by Gemini to extract team and competition and generate dynamic Google Looker Studio dashboard links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
