@@ -2,10 +2,13 @@
 
 An intelligent natural language interface for my **Messi Goal Tracker Looker Studio Dashboard** 
 
-Dashboard:
+App is in Google AI Studio:
+https://ai.studio/apps/f7e2a35c-01d1-4ffa-8484-6b86cdc3f1c4
+
+Dashboard is in Google Data Studio:
 https://datastudio.google.com/reporting/9d51c83b-11ea-44eb-b4dd-20a8ca54fd8a/page/JS6uB
 
-Blog-post:
+Blog-post about dashboard:
 https://worktimesheet2014.blogspot.com/2021/01/messi-goal-tracker-dashboard-in-google.html
 
 Instead of manually navigating Looker Studio, opening complex filter menus, and selecting dropdown items, users can simply ask questions in plain, everyday language to dynamically view pre-filtered dashboard results.
